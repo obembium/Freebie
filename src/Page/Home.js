@@ -18,8 +18,9 @@ import { LoadingSpinerComponent } from '../Util/Helpers';
 //Three basic endpoints are being called at the App.js file and dispatched here for usage.
 
 //Author: Peter Ihaza
-//Start time: 30/10/2021 12:32pm
-//Completion time: 30/10/2021 3:15pm
+//Start time: 30/10/2021 3:30pm
+//Completion time: 30/10/2021 6:35pm
+//Link: https://github.com/obembium/Freebie.git
 
 
 
